@@ -12,7 +12,7 @@ Embedded Apache Tomcat server with Spring Boot.
 
  Technologies Used
  
-Java 17
+Java 21
 
 Spring Boot 3
 
