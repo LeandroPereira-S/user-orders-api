@@ -12,7 +12,7 @@ Embedded Apache Tomcat server with Spring Boot.
 
  Technologies Used
  
-Java 21
+Java 17
 
 Spring Boot 3
 
@@ -30,7 +30,6 @@ Postman (For API testing)
 
 Clone the Repository
 Build and Run the Application
-mvn spring-boot:run
 This will start the embedded Tomcat server, and the API will be available at http://localhost:8080.
 
  API Endpoints
